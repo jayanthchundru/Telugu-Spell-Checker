@@ -1,2 +1,3 @@
 # Telugu-Spell-Checker
-Getting started with the cool project, in NLP
+
+This will be my first project on NLP, getting started with NLP
